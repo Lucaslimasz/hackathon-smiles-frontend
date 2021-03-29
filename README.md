@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="wallpaper.jpg" alt="Credit Card" />
-</p>
 
-# Clone do PicPay - React Native
 
-> Desenvolvimento do **Clonde do PicPay**, simulando as telas do PicPay
+# +Smiles
+
+> Desenvolvimento do **+smiles**
 
 ### 📄 O que foi usado:
 
@@ -13,28 +11,21 @@
 - Styled Components
 - Prettier
 - Hooks
-- vector-icons
 
 
 ### 🎯 Funcionalidade:
 
-> Navegação entre as screens **Home**, **Wallet**, **Pay**, **Notification**.
+> Navegação entre as screens **Principal**, **Login**, **Registro**.
 
-> Alternar cores da screen **Pay**.
+> Registrar-se
 
-> Ocultar saldo do aplicativo.
+> Logar.
 
 ### 🛠 Mão na massa:
 
 > Você pode realizar o clone deste repositório ou baixar o arquivo .zip!
 
-Clone o repositório:
-
-````
-git clone https://github.com/Lucaslimasz/clone-picpay-ReactNative.git
-````
-
-Para baixar o zip: https://github.com/Lucaslimasz/clone-picpay-ReactNative/archive/master.zip
+Clone o repositório
 
 ### 💻 Executando o projeto 🚀
 
