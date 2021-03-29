@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "picpay",
-    "slug": "picpay",
+    "name": "smiles",
+    "slug": "smiles",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.jpg",
@@ -18,13 +18,13 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.id.lucas.picpay"
+      "bundleIdentifier": "com.id.lucas.smiles"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.id.lucas.picpay"
+      "package": "com.id.lucas.smiles"
     }
   }
 }
